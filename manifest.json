@@ -1,0 +1,7 @@
+{
+  "name": "polymer-hw",
+  "short_name": "polymer-hw",
+  "description": "polymer hello world",
+  "start_url": "/",
+  "display": "standalone"
+}
